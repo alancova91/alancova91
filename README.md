@@ -1,6 +1,6 @@
-Mi nombre es Alan Cova, tengo 29 años y soy un desarrollador Frontend hace ya un año.
+Mi nombre es Alan Cova, tengo 29 años y soy desarrollador Frontend hace ya un año.
 
-Estoy en busqueda de mi primera experiencia laboral en el rubro.
+Estoy en busqueda de mi primera experiencia laboral en el rubro para poder seguir aprendiendo y creciendo como profesional.
 
 Me considero una persona muy entusiasta, que esta atento a cada detalle. 
 
